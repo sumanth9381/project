@@ -2,7 +2,7 @@
 # CodeAnt AI: Frontend Developer Hiring Assignment
 ##  This repository contains solution for the Frontend Developer Intern Hiring Assignment for CodeAnt AI. The project involves implementing a functional frontend based on the provided Figma design
 # Table of Contents
-Overview
+<Overview>
 Installation
 Technologies Used
 Features
@@ -19,7 +19,7 @@ Follow these steps to set up the project locally:
 
 Clone the repository:
 
-git clone https://github.com/deadland2002/codeantai
+git clone https://github.com/sumanth9381
 cd codeantai
 Install dependencies:
 
